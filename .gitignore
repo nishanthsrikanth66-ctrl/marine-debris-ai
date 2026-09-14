@@ -1,0 +1,8 @@
+dataset/
+runs/
+database/
+__pycache__/
+*.pyc
+test.jpg
+weights/
+*.pt
